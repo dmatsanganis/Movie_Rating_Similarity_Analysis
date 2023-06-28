@@ -11,11 +11,7 @@ This repository contains:
 
 1. **Dataset**: The movieLens dataset that includes 100,000 ratings (1-5) from 943 users on 1682 movies. It consists of three files: `users.txt`, `movies.txt`, and `ratings.txt`. The dataset has been pre-processed to focus on the set of movies that each user has rated.
 
-2. **Code**: The implementation of various algorithms and techniques to compute user similarity and analyze movie ratings. The code is organized into different tasks outlined in the assignment.
-
-3. **Input and Output Files**: The input file used for the analysis, as well as the output files generated during the different runs, are provided for reference.
-
-4. **Report**: A report describing the data pre-processing steps, algorithm implementations, and observations. It also includes average numbers and insights obtained from the analysis.
+2. **Code & Documentation**: The implementation of various algorithms and techniques to compute user similarity and analyze movie ratings. The code is organized into different tasks outlined in the assignment.
 
 ### Instructions
 
