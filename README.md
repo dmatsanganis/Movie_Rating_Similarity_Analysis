@@ -13,7 +13,7 @@ This repository contains:
 
 2. **Code & Documentation**: The implementation of various algorithms and techniques to compute user similarity and analyze movie ratings. The code is organized into different tasks outlined in the assignment.
 
-### Instructions
+### Instructions 
 
 To reproduce the analysis or explore the code, follow the steps below:
 
