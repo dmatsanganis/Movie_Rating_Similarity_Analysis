@@ -1,4 +1,4 @@
-## Movie Rating Similarity Analysis.
+## Movie Rating Similarity Analysis
 
 This repository explores the concepts of Jaccard distance, min hashing, and LSH (Locality Sensitive Hashing) in the context of user similarity in a movie rating dataset.
 To be more precise, we will explore the use of Jaccard distance, min hashing, and Locality Sensitive Hashing (LSH) in the context of user similarity in a movie rating dataset. The dataset used for this assignment contains 100,000 ratings from 943 users on 1,682 movies. We will perform various tasks to compute user similarity and evaluate the effectiveness of different techniques. The tasks include importing and pre-processing the dataset, computing the exact Jaccard similarity of users, computing similarity using Min-hash signatures, and locating similar users using LSH index.
